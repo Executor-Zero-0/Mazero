@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 背景：引用你新加的粉色 HUD 图片 -->
+    <background android:drawable="@drawable/ic_launcher_bg" />
+    
+    <!-- 前景：引用你的二次元角色 PNG -->
+    <foreground android:drawable="@drawable/ic_launcher_foreground" />
+</adaptive-icon>

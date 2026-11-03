@@ -1,0 +1,11 @@
+story_001.txt|主线剧情2•线索-妄想曲——诞生
+story_002.txt|虹彩门限·世界_!序章 踏血终途
+story_003.txt|虹彩门限·世界_第1章 童年回忆
+story_004.txt|虹彩门限·世界_第2章 父亲？
+story_005.txt|虹彩门限·世界_第3章 地表
+story_006.txt|角色档案：E01
+story_007.txt|角色档案：宁
+story_008.txt|角色档案：泠
+story_009.txt|角色档案：泽若
+story_010.txt|角色档案：玲霜
+story_011.txt|角色档案：零

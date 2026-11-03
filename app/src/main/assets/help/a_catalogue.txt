@@ -1,0 +1,11 @@
+guide_001.txt|新玩家必看!
+guide_002.txt|启动与主菜单
+guide_003.txt|关卡选择与准备
+guide_004.txt|关卡内界面
+guide_005.txt|通关结算
+guide_006.txt|阅览剧情
+guide_007.txt|地图编辑器
+guide_008.txt|常规迷宫
+guide_009.txt|线性滑道
+guide_010.txt|重力行者
+guide_011.txt|气象之森
